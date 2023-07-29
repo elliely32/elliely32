@@ -6,10 +6,11 @@ When Art and Tech combines, amazing things can be created, and I want to be a pa
 
 ## Check me out!
 - ✏️ When I'm not coding, im probably [drawing](https://www.instagram.com/sketchie32/)!
-- 🖥️ I created my own [Portfolio Website](http://elliely.me/)~
 
 <!--
 **elliely32/elliely32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🖥️ I created my own [Portfolio Website](http://elliely.me/)~
 
 Here are some ideas to get you started:
 
